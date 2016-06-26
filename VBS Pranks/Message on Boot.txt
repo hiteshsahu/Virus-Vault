@@ -1,0 +1,3 @@
+ ' putting this cript in startup folder will run this every time
+ name=inputbox("What's your name?")
+  msgbox("Have a good day, ") + name

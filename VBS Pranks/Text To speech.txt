@@ -1,0 +1,5 @@
+Dim msg, sapi
+       msg=InputBox("Enter your Message here"," Text-To-Audio      
+       Converter")
+       Set sapi=CreateObject ("sapi.spvoice")
+       sapi.Speak msg

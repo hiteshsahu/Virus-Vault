@@ -1,0 +1,3 @@
+pass=inputbox("Enter Password...")
+        if pass="password" then msgbox("Your Message Here..") else msgbox("Incorrect Password! 
+        Exiting... ")
