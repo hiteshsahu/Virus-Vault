@@ -1,0 +1,3 @@
+ @echo off
+       msg * Shutdown computer.
+      shutdown -c “Sleep Tight” -s
